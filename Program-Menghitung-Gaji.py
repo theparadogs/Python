@@ -18,7 +18,7 @@ if jabatan == "1" :
 elif jabatan == "2" :
     tj = (10/100) * gp
 elif jabatan == "3" :
-        tj = (15/100) * gp
+    tj = (15/100) * gp
 
 
 # LOPPING JABATAN
